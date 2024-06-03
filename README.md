@@ -1,2 +1,2 @@
-# CCS2
-It is the final project of the ccs2 course
+# Multi-Modal Music Classification Model
+### It is the final project of the ccs2 course
